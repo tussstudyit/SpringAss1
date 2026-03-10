@@ -38,7 +38,6 @@ src/
 │           ├── views/         # JSP templates
 │           ├── web.xml        # Web deployment descriptor
 │           └── dispatcher-servlet.xml  # Spring MVC config
-└── test/                      # Unit tests
 ```
 
 ## 🚀 Chạy Project
